@@ -31,3 +31,7 @@ This project demonstrates a simple **Retrieval-Augmented Generation (RAG)** pipe
    ```bash
    git clone https://github.com/hazesnehal/Rag.git
    cd Rag
+2.Install all required dependencies in Colab when prompted (includes LangChain, FAISS, and Fireworks-related packages).
+3.Add your Fireworks API key securely using the Colab Secrets feature.
+4.Upload your PDF file using the upload widget in the notebook.
+5.Run the notebook cells step-by-step to load, chunk, embed the PDF, and query it using Fireworks AI.
