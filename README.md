@@ -29,5 +29,5 @@ This project demonstrates a simple **Retrieval-Augmented Generation (RAG)** pipe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/hazesnehal/Rag.git
+   cd Rag
